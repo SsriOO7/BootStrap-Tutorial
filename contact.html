@@ -67,7 +67,29 @@
         <div class="mb-3">
             <label for="exampleFormControlTextarea1" class="form-label">Elaborate your concern</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-            <button class="btn btn-primary my-3">Submit</button>
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Submit
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Notification</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            Your request submitted successfully!
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
 

@@ -2,4 +2,4 @@
 
 This site is a blog about anime, manga, and light novels. It describes all three.
 
-Welcome to our anime blog site! We are dedicated to sharing our love of this amazing art form with fellow fans. From discovering hidden gems to exploring new technologies, cosplay, and merchandise we cover it all. Our goal is to be a go-to source for anime enthusiasts everywhere. Thank you for joining us on this exciting journey!
+Crafted with precision, our responsive anime blog harnesses the trio of HTML, CSS, and Bootstrap. Seamlessly adapting to diverse devices, HTML structure content, CSS styles, and Bootstrap amplifies functionality. A synergy of these technologies yields a captivating interface, where readers immerse themselves in anime's enchanting world, whether on desktops, tablets, or phones.
